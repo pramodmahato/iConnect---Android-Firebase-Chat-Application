@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iConnect</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="Friend">You have recieved a New Friend Request.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using iConnect</string>
+    <string name="enter_message">Enter Message...</string>
+</resources>
